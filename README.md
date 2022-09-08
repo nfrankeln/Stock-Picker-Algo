@@ -1,4 +1,4 @@
-# Stock Picker 1234
+# Stock Picker
 
 For this challenge you need to implement a method #stock_picker that takes in a list of stock prices, one for each hypothetical day. It should return a pair of days representing the best day to buy and the best day to sell. Days start at 0.
 
