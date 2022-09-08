@@ -6,7 +6,6 @@ For this challenge you need to implement a method #stock_picker that takes in a 
 
 * You need to buy before you can sell
 * Pay attention to edge cases like when the lowest day is the last day or the highest day is the first day.
-* Make sure you translate the driver code in the spec file to Unittest and Jest tests. 
 
 # Example
 
